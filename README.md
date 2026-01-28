@@ -36,8 +36,7 @@ Sales Amount
 
 Profit
 
-Customer / Region / Store (if applicable)
-
+Customer / Region / Store 
 
 A custom calendar table is used for time-based analysis.
 
